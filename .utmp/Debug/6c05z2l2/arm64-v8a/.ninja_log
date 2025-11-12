@@ -1,0 +1,10 @@
+# ninja log v5
+69	2704	7846750441429170	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	309420e1c24a1a5
+95	2744	7846750441863739	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2d010097507fae93
+50	2754	7846750441899522	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fddb8ac0733ba3ca
+1	2791	7846750442310862	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d773c8fcf0b13bfa
+146	2799	7846750442363052	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	92dd118b0798ef46
+169	2859	7846750443025583	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4fc49add0aa1381d
+120	2977	7846750444176745	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bf2498dd6e1acf32
+27	3091	7846750445233878	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	601173dc56fce7d8
+3092	3710	7846750451378529	D:/unity/projects/Card clash/Card clash -AR/Library/PramData/AndroidApplicationController/Cache/com.UnityTechnologies.com.unity.template.urpblank/gradle-project/unityLibrary/build/intermediates/cxx/Debug/6c05z2l2/obj/arm64-v8a/libgame.so	4b01068dee607bad

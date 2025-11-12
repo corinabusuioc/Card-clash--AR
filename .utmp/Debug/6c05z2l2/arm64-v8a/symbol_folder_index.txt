@@ -1,0 +1,1 @@
+D:\unity\projects\Card clash\Card clash -AR\Library\PramData\AndroidApplicationController\Cache\com.UnityTechnologies.com.unity.template.urpblank\gradle-project\unityLibrary\build\intermediates\cxx\Debug\6c05z2l2\obj\arm64-v8a
