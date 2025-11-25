@@ -10,3 +10,6 @@ https://docs.google.com/document/d/1WqTKwSPoeoQ0p6zTx6-XjKpJlThQILNX_OiNYqKO5gs/
 
 Link video tema 6:
 https://drive.google.com/file/d/1IwWi3buzSdpccjcjui6sIxZUQHGGCMNO/view?usp=sharing
+
+Link video sapt 9:
+https://drive.google.com/file/d/1jm77fv01S_MFh52O9wrtvCQ2pIDH1aig/view?usp=sharing
